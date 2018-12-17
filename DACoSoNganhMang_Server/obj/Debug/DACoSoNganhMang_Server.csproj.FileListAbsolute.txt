@@ -1,0 +1,10 @@
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\bin\Debug\DACoSoNganhMang_Server.exe.config
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\bin\Debug\DACoSoNganhMang_Server.exe
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\bin\Debug\DACoSoNganhMang_Server.pdb
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\obj\Debug\DACoSoNganhMang_Server.csprojAssemblyReference.cache
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\obj\Debug\DACoSoNganhMang_Server.Properties.Resources.resources
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\obj\Debug\DACoSoNganhMang_Server.csproj.GenerateResource.cache
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\obj\Debug\DACoSoNganhMang_Server.csproj.CoreCompileInputs.cache
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\obj\Debug\DACoSoNganhMang_Server.exe
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\obj\Debug\DACoSoNganhMang_Server.pdb
+C:\Users\minhh\source\repos\DACoSoNganhMang_PhanMang\DACoSoNganhMang_Server\obj\Debug\DACoSoNganhMang_Server.FormServer.resources
